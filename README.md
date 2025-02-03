@@ -1,2 +1,2 @@
 # ThemeDragon
-Practicing with Githbash
+Practicing with Gitbash
